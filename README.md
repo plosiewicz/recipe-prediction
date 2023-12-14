@@ -1,5 +1,8 @@
 ## Recipes & Ratings Model Prediction
 Analysis done by Paul J. Losiewicz
+
+The exploratory data analysis on this dataset can be found [here](https://github.com/plosiewicz/exploratory-analysis-recipes/blob/main/README.md)
+
 ### **Framing the Problem**
    Websites such as food.com have changed the landscape of the culinary-arts world, making it incredibly easy to share and try new-recipes on the go.  Whether you are a first-time amateur or a seasoned professional, home-cooks across the world turn to food.com for its accesibility and extensive selections of recipes.  On the other hand, the same people who turn to food.com for accesibility are usually the same people who are looking for quick-and-easy recipes.  Not everyone has the time to cut out hour-long blocks of their day to cook a meal, so as a result, this project aims to build a model in order to predict how many 'minutes' a recipe takes based on its other parameters.  For example, using the >80,000 unique recipes submitted across our dataset, we are looking to see if trends in certain parameters such as 'nutritional value' or 'average rating' are able to semi-accurately predict how long a recipe is going to take.
 
